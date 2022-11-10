@@ -1,0 +1,20 @@
+.send-message-input{
+    height: 100px;
+    width: 50%;
+    border-radius: 45px;
+}
+.btn{
+    position: relative;
+    top: -150px;
+    width: 30%;
+    left: 360px;
+}
+.moveable{
+    position: relative;
+    left: 50%;
+    top: -150px;
+}
+.change-size{
+ width: 40%;
+ height: 33%;
+}
